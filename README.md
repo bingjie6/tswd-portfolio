@@ -11,27 +11,24 @@ Sometimes it's helpful to keep track of your web URL.  Consider putting that som
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi, I'm Grace (Bingjie) Liu! I am currently pursuing a Master of Information Systems Management degree at Carnegie Mellon University with an expected graduation date of December 2024. Previously I earned my bachelor's degrees in Informatics and Education Sciences from UC Irvine in 2023.
+
+I have gained work experience as a Data Analyst Intern at Alphabet Inc. and as a Career Consulting Assistant at MentorX Corporation. I've spent my past summer as a Project Management Intern under the Solutions, Consulting, and Engineering (SC&E) team at World Wide Technology.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+- Create data visualizations by following good design practices
+- Conduct user research to ensure data visualizations and the supporting narrative are being communicated effectively
+- Critique data visualizations by applying various critique methodologies, and be able to justify my own design decisions and recommendations
 
 # Portfolio
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Data visualization critique #1](visualizing-government-debt)
+For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+
+## Assignment: [Data visualization #1](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
