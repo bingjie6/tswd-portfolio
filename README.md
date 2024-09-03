@@ -22,10 +22,10 @@ I have gained work experience as a Data Analyst Intern at Alphabet Inc. and as a
 
 # Portfolio
 
-## Assignment: [Data visualization critique #1](visualizing-government-debt)
+## Assignment: [Data visualization critiques](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment: [Data visualization #1](visualizing-government-debt)
+## Assignment: [Data visualization Workshops](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
