@@ -15,11 +15,7 @@ I have gained work experience as a Data Analyst Intern at Alphabet Inc. and as a
 
 # Portfolio
 
-## Assignment: [Data Visualization Critiques](data-visualization-critiques)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `data-visualization-critiques.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
-https://data-viewer.oecd.org?chartId=2e7e2795-071a-4099-b36f-65c099c38498
-
-## Assignment: [Data Visualization Workshops](data-visualization-workshops)
+## Assignment: [Visualization Government Debt](visualization-government debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `data-visualization-workshops.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
