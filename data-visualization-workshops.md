@@ -29,7 +29,7 @@ _As before, this template provides some of the structure you should have for you
         <param name='language' value='en-US' />
         <param name='filter' value='publish=yes' />
     </object>
-</div>
+<!-- </div> -->
 <script type='text/javascript'>
     var divElement = document.getElementById('viz1725741054422');
     var vizElement = divElement.getElementsByTagName('object')[0];
