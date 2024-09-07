@@ -3,10 +3,12 @@
 # Visualizing Government Debt
 
 ## Part one: Working with web-based visualization tools and data
-<div class='tableauPlaceholder' id='viz1725750859567' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1725751257642' style='position: relative'>
     <noscript>
         <a href='#'>
-            <img alt='General Government Debt as a Percentage of GDP by Country - Showing government debt trends across countries from 1995 to 2019' src='https://public.tableau.com/static/images/go/govtdebt2/GovernmentDebt2/1_rss.png' style='border: none' />
+            <img alt='General Government Debt as a Percentage of GDP by Country - Showing government debt trends across countries from 1995 to 2019' 
+                 src='https://public.tableau.com/static/images/go/govtdebt2/GovernmentDebt2/1_rss.png' 
+                 style='border: none' />
         </a>
     </noscript>
     <object class='tableauViz' style='display:none;'>
@@ -26,8 +28,9 @@
         <param name='filter' value='publish=yes' />
     </object>
 </div>
+
 <script type='text/javascript'>
-    var divElement = document.getElementById('viz1725750859567');
+    var divElement = document.getElementById('viz1725751257642');
     var vizElement = divElement.getElementsByTagName('object')[0];
     vizElement.style.width = '100%';
     vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
@@ -36,7 +39,6 @@
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
 
 ## Part two: Working with Tableau
 
