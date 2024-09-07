@@ -7,7 +7,7 @@ _As before, this template provides some of the structure you should have for you
 
 ## Part one: Working with web-based visualization tools and data
 
-<div class='tableauPlaceholder' id='viz1725740528616' style='position: relative'>
+<div class='tableauPlaceholder' id='viz1725741054422' style='position: relative'>
     <noscript>
         <a href='#'>
             <img alt='Government Debt' src='https://public.tableau.com/static/images/go/govtdebt/GovernmentDebt/1_rss.png' style='border: none' />
@@ -32,7 +32,7 @@ _As before, this template provides some of the structure you should have for you
 </div>
 
 <script type='text/javascript'>
-    var divElement = document.getElementById('viz1725740528616');
+    var divElement = document.getElementById('viz1725741054422');
     var vizElement = divElement.getElementsByTagName('object')[0];
     vizElement.style.width = '100%';
     vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
