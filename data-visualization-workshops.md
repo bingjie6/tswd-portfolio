@@ -1,11 +1,12 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data visualization critiques](data-visualization-critiques) | [data visualization workshops](data-visualization-workshops) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Data Visualization Workshops
-Text here!
-
-_As before, this template provides some of the structure you should have for your assignment, but the official instructions and guidance can be found on Canvas.  Make sure to reference that for detailed instructions on what you need to do and what you need to submit to get credit._
 
 ## Part one: Working with web-based visualization tools and data
+
+
+
+## Working with Tableau
 
 <div class='tableauPlaceholder' id='viz1725741054422' style='position: relative'>
     <noscript>
@@ -30,10 +31,6 @@ _As before, this template provides some of the structure you should have for you
         <param name='filter' value='publish=yes' />
     </object>
 </div>
-
-## Working with Tableau
-
-_A reminder that to get the Tableau visualization to render correctly on Github, you'll have to do a bit of editing of the code block once you paste it here.  As before, make sure to walk us through what you did in Tableau, and any thoughts or observations, etc._
 
 ## Part three: create your own visualization
 
