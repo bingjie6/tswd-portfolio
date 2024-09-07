@@ -6,7 +6,7 @@
 
 
 
-## Working with Tableau
+## Part two: Working with Tableau
 
 <div class='tableauPlaceholder' id='viz1725741054422' style='position: relative'>
     <noscript>
