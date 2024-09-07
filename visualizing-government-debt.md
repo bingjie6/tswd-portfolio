@@ -1,6 +1,6 @@
 | [home page](README) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Visualization Government Debt
+# Visualizing Government Debt
 
 ## Part one: Working with web-based visualization tools and data
 
