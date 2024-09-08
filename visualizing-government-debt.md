@@ -3,11 +3,6 @@
 # Visualizing Government Debt
 
 ## Part one: Working with web-based visualization tools and data
-<iframe src="https://data-viewer.oecd.org?chartId=d88fcbe4-fffd-43bf-acbe-babf75b9c6a9" style="border: none;" allowfullscreen="true" data-external="1"></iframe>
-<a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=d88fcbe4-fffd-43bf-acbe-babf75b9c6a9" target="_blank">Dataflow</a>
-
-------------------
-
 <iframe src="https://data-viewer.oecd.org?chartId=d88fcbe4-fffd-43bf-acbe-babf75b9c6a9" style="border: none;" allowfullscreen="true"></iframe>
 <a rel="noopener noreferrer" href="https://data-viewer.oecd.org?chartId=d88fcbe4-fffd-43bf-acbe-babf75b9c6a9" target="_blank">Dataflow</a>
 
