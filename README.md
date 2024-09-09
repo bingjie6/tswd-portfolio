@@ -16,10 +16,10 @@ I have gained work experience as a Data Analyst Intern at Alphabet Inc. and as a
 # Portfolio
 
 ## Assignment: [Visualizing Government Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `data-visualization-workshops.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+Click on the assignment title to get to my Visualizing Government Debt page.
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+Click on the assignment title to get to my Critique by Design page.
 
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
@@ -27,15 +27,14 @@ Here it might be helpful to include a high-level description of your final proje
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
 
+
+
+
 ---
 # TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
-
+Reference:
 - Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
 - This repository: https://github.com/cmustudent/tswd-portfolio-templates/
-
-## Other stuff you can do (you can remove this section - it's just for your reference.)
 
 ### Changing text
 
