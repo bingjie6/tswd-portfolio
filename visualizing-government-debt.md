@@ -4,7 +4,7 @@
 
 ## Part one: Working with web-based visualization tools and data
 ![General Government Debt](general-government-debt.png)
-> Data Source <a href="https://www.oecd.org/en/data/indicators/general-government-debt.html">charlesdeluvio</a>
+> Data Source <a href="https://www.oecd.org/en/data/indicators/general-government-debt.html">OECD</a>
 
 
 ## Part two: Working with Tableau
