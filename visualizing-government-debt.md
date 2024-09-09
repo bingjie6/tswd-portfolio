@@ -3,7 +3,7 @@
 # Visualizing Government Debt
 
 ## Part one: Working with web-based visualization tools and data
-![funny dog picture](general government debt.png)
+![funny dog picture](general-government-debt.png)
 > Photo by <a href="https://unsplash.com/pt-br/@charlesdeluvio?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">charlesdeluvio</a> on <a href="https://unsplash.com/photos/K4mSJ7kc0As?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
 
 
