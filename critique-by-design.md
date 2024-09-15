@@ -4,8 +4,7 @@
 
 For this Critique by Design assignment, I'm going to come up with a critique and a data visualization using information and data that was available either online or from the class. The steps are as follows:
 
-Step one: select a visualization to redesign from [MakeoverMonday](https://makeovermonday.co.uk/)
-
+Step one: select a visualization to redesign from [MakeoverMonday](https://makeovermonday.co.uk/) <br />
 Step two: critique the visualization
 
 Step three: wireframe a solution
