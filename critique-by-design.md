@@ -8,7 +8,7 @@ Step one: select a visualization to redesign from [MakeoverMonday](https://makeo
 Step two: critique the visualization <br />
 Step three: wireframe a solution <br />
 Step four: test the solution <br />
-Step five: build your solution
+Step five: build my solution
 
 Don't waste time. Let's get started!
 
