@@ -1,6 +1,19 @@
 | [home page](https://bingjie6.github.io/tswd-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Assignment 3 & 4: Critique by Design with Tableau
+
+For this Critique by Design assignment, I'm going to come up with a critique and a data visualization using information and data that was available either online or from the class. The steps will be:
+
+Step one: select a visualization to redesign from MakeoverMonday (https://makeovermonday.co.uk/Links to an external site.).  Or, redesign a visualization of your choice. 
+
+Step two: critique the visualization
+
+Step three: wireframe a solution
+
+Step four: test the solution
+
+Step five: build your solution
+
 ## Step one: the visualization
 <a href="https://www.statista.com/chart/32549/average-effective-labor-market-exit-age-of-selected-countries/" title="Infographic: The Varying State of Retirement Ages | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/32549.jpeg" alt="Infographic: The Varying State of Retirement Ages | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/>
 </a> Data Source <a href="https://www.statista.com/chart/32549/average-effective-labor-market-exit-age-of-selected-countries/">OECD</a>
