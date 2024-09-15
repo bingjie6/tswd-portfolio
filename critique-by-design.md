@@ -17,7 +17,7 @@ The primary audience for this graph could be policymakers, retirement analysts, 
 This visualization is evaluated according to Stephen Few's [Data Visualization Effectiveness Profile](https://www.tableau.com/blog/stephen-few-data-visualization). Compared to the Good Charts method, this evaluation method pays additional attention to how the targeted audience perceives the visualization and its effectiveness in reaching the audience. The evaluation criteria are also more comprehensive in covering the truthfulness, completeness, and aesthetics of the visualization. To improve, the method could incorporate a walk-through of the graph, similar to the Good Charts method, identifying what the visualization tells at first glance and what information the graph is telling after careful exploration. For example, what color stands out first, or how does the shape, layout, and the design assist in delivering the information, etc.
 
 ## Step three: Sketch a solution
-
+![Retirement Ages Men vs Women](retirement-ages.png)
 
 ## Step four: Test the solution
 
