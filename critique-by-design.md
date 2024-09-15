@@ -2,7 +2,12 @@
 
 # [The Varying State of Retirement Ages]
 ## Step one: the visualization
-<a href="https://www.statista.com/chart/32549/average-effective-labor-market-exit-age-of-selected-countries/" title="Infographic: The Varying State of Retirement Ages | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/32549.jpeg" alt="Infographic: The Varying State of Retirement Ages | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/
+<a href="https://www.statista.com/chart/32549/average-effective-labor-market-exit-age-of-selected-countries/" title="Infographic: The Varying State of Retirement Ages | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/32549.jpeg" alt="Infographic: The Varying State of Retirement Ages | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/>
+
+
+
+</a> You will find more infographics at <a href="https://www.statista.com/chartoftheday/">Statista</a>
+
 > Data Source <a href="https://www.statista.com/chart/32549/average-effective-labor-market-exit-age-of-selected-countries/">OECD</a>
 
 
