@@ -1,12 +1,13 @@
 | [home page](https://bingjie6.github.io/tswd-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# [The Varying State of Retirement Ages]
+# Assignment 3 & 4: Critique by Design with Tableau
 ## Step one: the visualization
 <a href="https://www.statista.com/chart/32549/average-effective-labor-market-exit-age-of-selected-countries/" title="Infographic: The Varying State of Retirement Ages | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/32549.jpeg" alt="Infographic: The Varying State of Retirement Ages | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/>
 </a> Data Source <a href="https://www.statista.com/chart/32549/average-effective-labor-market-exit-age-of-selected-countries/">OECD</a>
 
+I selected **"The Varying State of Retirement Ages"** visualization because it presents an important and widely relevant social and economic issue: the age at which people retire in different countries. Understanding global retirement ages is crucial for policymakers, labor economists, and even the general public, as it impacts national productivity, pension systems, healthcare costs, and the overall aging workforce. The visualization makes it easy to compare different countries' retirement trends, particularly in relation to the OECD average, which acts as a benchmark for evaluating a nation's standing in a global context. 
 
-Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
+The topic also ties into broader conversations on aging populations, workforce sustainability, and gender disparities. By displaying the data for both men and women, this chart invites further analysis into how gender impacts retirement ages, offering insights into economic and social structures. Given the ongoing debates about labor force participation and retirement policies, particularly in aging nations, this visualization provides a clear and accessible entry point for discussions around global retirement trends.
 
 ## Step two: the critique
 _Don't forget to complete the Google Form found on the assignment page.  You can summarize your thoughts here._
