@@ -3,7 +3,7 @@
 # [The Varying State of Retirement Ages]
 ## Step one: the visualization
 <a href="https://www.statista.com/chart/32549/average-effective-labor-market-exit-age-of-selected-countries/" title="Infographic: The Varying State of Retirement Ages | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/32549.jpeg" alt="Infographic: The Varying State of Retirement Ages | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/>
-</a> Data Source <a href="[https://www.statista.com/chartoftheday/](https://www.statista.com/chart/32549/average-effective-labor-market-exit-age-of-selected-countries/)">OECD</a>
+</a> Data Source <a href="https://www.statista.com/chart/32549/average-effective-labor-market-exit-age-of-selected-countries/">OECD</a>
 
 
 Include paragraph or two on why you selected this particular data visualization.  For obvious reasons, the data visualization you select should come from a publicly accessible source._
