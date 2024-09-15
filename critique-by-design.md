@@ -20,25 +20,17 @@ This visualization is evaluated according to Stephen Few's [Data Visualization E
 ![Retirement Ages Men vs Women](retirement-ages.png)
 
 ## Step four: Test the solution
-
-- For this graphic, what do you see first?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
+I shared my sketch above with two different people and asked for their feedback by preparing interview questions.
 
 Results: 
 
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|For this graphic, what do you see first?          |             |             |
-|Can you describe to me what this is telling you?          |             |             |
-|Is there anything you find surprising or confusing?          |             |             |
+|                      Question                       | Interview 1 | Interview 2 |
+|-----------------------------------------------------|-------------|-------------|
+|For this graphic, what do you see first?             |             |             |
+|Can you describe to me what this is telling you?     |             |             |
+|Is there anything you find surprising or confusing?  |             |             |
+|Who do you think is the intended audience for this?  |             |             |
+|Is there anything you would change or do differently?|             |             |
 
 Synthesis: 
 
