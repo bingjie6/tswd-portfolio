@@ -2,7 +2,7 @@
 
 # Assignment 3 & 4: Critique by Design with Tableau
 
-For this Critique by Design assignment, I'm going to come up with a critique and a data visualization using information and data that was available either online or from the class. The steps will be as following:
+For this Critique by Design assignment, I'm going to come up with a critique and a data visualization using information and data that was available either online or from the class. The steps are as follows:
 
 Step one: select a visualization to redesign from MakeoverMonday (https://makeovermonday.co.uk/Links to an external site.).
 Step two: critique the visualization
@@ -10,7 +10,7 @@ Step three: wireframe a solution
 Step four: test the solution
 Step five: build your solution
 
-Don't waste the time. Let's get started!
+Don't waste any time. Let's get started!
 
 ## Step one: the visualization
 <a href="https://www.statista.com/chart/32549/average-effective-labor-market-exit-age-of-selected-countries/" title="Infographic: The Varying State of Retirement Ages | Statista"><img src="https://cdn.statcdn.com/Infographic/images/normal/32549.jpeg" alt="Infographic: The Varying State of Retirement Ages | Statista" width="100%" height="auto" style="width: 100%; height: auto !important; max-width:960px;-ms-interpolation-mode: bicubic;"/>
