@@ -68,12 +68,12 @@ Based on this feedback, several design changes could improve the overall visuali
 <div class='tableauPlaceholder' id='viz1726522601455' style='position: relative'>
     <noscript>
         <a href='#'>
-            <img alt='RETIREMENT AGES across selected countries for five year period 2017-22 source: OECD' 
-                 src='https://public.tableau.com/static/images/re/retirementages_17265222578900/Sheet1/1_rss.png' 
+            <img alt='RETIREMENT AGES across selected countries for five year period 2017-22 source: OECD'
+                 src='https://public.tableau.com/static/images/re/retirementages_17265222578900/Sheet1/1_rss.png'
                  style='border: none' />
         </a>
     </noscript>
-    <object class='tableauViz' style='display:none;'>
+    <object class='tableauViz' style='display: none;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
         <param name='site_root' value='' />
