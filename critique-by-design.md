@@ -33,30 +33,30 @@ This visualization is evaluated according to Stephen Few's [Data Visualization E
 ## Step four: Test the solution
 I shared my sketch above with two different people and asked for their feedback by preparing interview questions. Both interviewees are CMU master's students in their early twenties.
 
-**Question 1: For this graphic, what do you see first?** <br />
-student 1: I see the retirement ages information across some countries in a format of bar plots. The men retirement ages are shown on the left in blue and the women are on the right in pink. Also, specific numbers are provided.
+### Question 1: For this graphic, what do you see first?
+**student 1:** I see the retirement ages information across some countries in a format of bar plots. The men retirement ages are shown on the left in blue and the women are on the right in pink. Also, specific numbers are provided.
 
-student 2: I first saw the blue and pink color as the color shades are very easy to get noticed. And I comprehend them as indicators of age span. Then are the logos of the countries.
+**student 2:** I first saw the blue and pink color as the color shades are very easy to get noticed. And I comprehend them as indicators of age span. Then are the logos of the countries.
 
-**Question 2: Can you describe to me what this is telling you?** <br />
-student 1:Since the author rank the countries from top to bottom based on who has the largest retirement age to the least. I can easily tell which country has the highest retirement ages or compare between the counties. What’s more, an average retirement ages lines are provided to both men and women, which acts as a reference line to help us build up the concept of what is a general or ‘normal’ retirement age and how is it different from those on the chart. Also, it is easy to compare between men and women retirement ages since they are shown on each side of the countries.
+### Question 2: Can you describe to me what this is telling you?
+**student 1:** Since the author rank the countries from top to bottom based on who has the largest retirement age to the least. I can easily tell which country has the highest retirement ages or compare between the counties. What’s more, an average retirement ages lines are provided to both men and women, which acts as a reference line to help us build up the concept of what is a general or ‘normal’ retirement age and how is it different from those on the chart. Also, it is easy to compare between men and women retirement ages since they are shown on each side of the countries.
 
-student 2: The graph is about retirement ages for men and women in 6 different countries.
+**student 2:** The graph is about retirement ages for men and women in 6 different countries.
 
-**Question 3: Is there anything you find surprising or confusing?** <br />
-student 1: I am surprised by the information that Iceland has such a high retirement age since, under my understanding, it is one of the happiest countries around the world which should have a lower retirement age. Meanwhile, I am confused that why are these countries shown on the chart. What is the logic behind it? Is it, for example, the counties with the top 6 retirement age or the bottom 6?
+### Question 3: Is there anything you find surprising or confusing?
+**student 1:** I am surprised by the information that Iceland has such a high retirement age since, under my understanding, it is one of the happiest countries around the world which should have a lower retirement age. Meanwhile, I am confused that why are these countries shown on the chart. What is the logic behind it? Is it, for example, the counties with the top 6 retirement age or the bottom 6?
 
-student 2: It is surprising to know that there are certain countries’ retirement age is over 65 years old.
+**student 2:** It is surprising to know that there are certain countries’ retirement age is over 65 years old.
 
-**Question 4: Who do you think is the intended audience for this?** <br />
-student 1: The intended audience could be researchers, intended immigrants, international workers, international students, and so on.
+### Question 4: Who do you think is the intended audience for this?
+**student 1:** The intended audience could be researchers, intended immigrants, international workers, international students, and so on.
 
-student 2: I think it is more like for general knowledge and for audience who would like to learn more about each country’s retirement age.
+**student 2:** I think it is more like for general knowledge and for audience who would like to learn more about each country’s retirement age.
 
-**Question 5: Is there anything you would change or do differently?** <br />
-student 1: As stated in the ‘confusion section’ above, I would probably clear introduce what are these countries and why are they picked in the title or subtitle section. Also, I might add some background axis lines to help locating the specific number and help comparison.
+### Question 5: Is there anything you would change or do differently?
+**student 1:** As stated in the ‘confusion section’ above, I would probably clear introduce what are these countries and why are they picked in the title or subtitle section. Also, I might add some background axis lines to help locating the specific number and help comparison.
 
-student 2: I will probably include a note like why these 6 countries are selected as I am curious. Like are they the top countries that have the highest retirement ages. Also since there are only 6 countries, maybe a clearer legend would be helpful as audience could wonder if the women/men average ages are for these 6 selected countries or all the countries in general.
+**student 2:** I will probably include a note like why these 6 countries are selected as I am curious. Like are they the top countries that have the highest retirement ages. Also since there are only 6 countries, maybe a clearer legend would be helpful as audience could wonder if the women/men average ages are for these 6 selected countries or all the countries in general.
 
 Synthesis: 
 
