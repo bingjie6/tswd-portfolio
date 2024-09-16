@@ -31,17 +31,29 @@ This visualization is evaluated according to Stephen Few's [Data Visualization E
 ![Retirement Ages Men vs Women](retirement-ages.png)
 
 ## Step four: Test the solution
-I shared my sketch above with two different people and asked for their feedback by preparing interview questions.
+I shared my sketch above with two different people and asked for their feedback by preparing interview questions. Both interviewees are CMU master's students in their early twenties.
 
-Results: 
+**Question 1: For this graphic, what do you see first?**
+student 1: I see the retirement ages information across some countries in a format of bar plots. The men retirement ages are shown on the left in blue and the women are on the right in pink. Also, specific numbers are provided.
 
-|                      Question                       | Interview 1 | Interview 2 |
-|-----------------------------------------------------|-------------|-------------|
-|For this graphic, what do you see first?             |             |             |
-|Can you describe to me what this is telling you?     |             |             |
-|Is there anything you find surprising or confusing?  |             |             |
-|Who do you think is the intended audience for this?  |             |             |
-|Is there anything you would change or do differently?|             |             |
+student 2: I first saw the blue and pink color as the color shades are very easy to get noticed. And I comprehend them as indicators of age span. Then are the logos of the countries.
+
+**Question 2: Can you describe to me what this is telling you?**
+student 1:
+student 2:
+
+**Question 3: Is there anything you find surprising or confusing?**
+student 1:
+student 2:
+
+**Question 4: Who do you think is the intended audience for this?**
+student 1:
+student 2:
+
+**Question 5: Is there anything you would change or do differently?**
+student 1:
+student 2:
+
 
 Synthesis: 
 
