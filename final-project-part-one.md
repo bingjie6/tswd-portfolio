@@ -34,15 +34,15 @@ Text here...
 > A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
 **Vision Difficulty by Sex and Age** <br />
-https://data.census.gov/table/ACSDT1Y2023.B18103?q=B18103:%20Sex%20by%20Age%20by%20Vision%20Difficulty
-This dataset contains an estimate of the number of people in the U.S. with a visual disability as of 2023, by sex and age, based on the American Community Survey by the U.S. Census Bureau. A relevant visualization can be created to show the data of people with visual disability.
+https://data.census.gov/table/ACSDT1Y2023.B18103?q=B18103:%20Sex%20by%20Age%20by%20Vision%20Difficulty <br />
+This dataset contains an estimate of the number of people in the U.S. with a visual disability as of 2023, by sex and age, based on the American Community Survey by the U.S. Census Bureau. A relevant visualization can be created to show the number of people with visual disability in different sex and age categories.
 
 **Prevelance of Eye Diseases in US** <br />
-https://data.world/datacrunch/prevalence-of-vision-problems-in-the-u-s/workspace/file?filename=Prevelance+of+Eye+Diseases+in+US.xlsx
-
+https://data.world/datacrunch/prevalence-of-vision-problems-in-the-u-s/workspace/file?filename=Prevelance+of+Eye+Diseases+in+US.xlsx <br />
+This dataset records a number of variables, including vision problem types, race, sex, age, number of cases, prevalence rate, and population. I plan to draw a graph that demonstrates the leading causes of vision problems in the United States. Together with the first dataset, I can create various visualizations by demographics.
 
 **U.S. adults 40 years and older with select health tests in past 5 years 2023** <br />
-[mefical-tests-survey results](medical-tests-survey-results)
+This [medical-tests-survey results](medical-tests-survey-results) shows the percentage of adults in the United States aged 40 years and older who reported having a vision test in the past five years as of 2023. A bar chart can be created to show the importance of visiting eye doctors regularly, especially as age grows.
 
 # Method and medium
 > In a few sentences, you should document how you plan on completing your final project. 
