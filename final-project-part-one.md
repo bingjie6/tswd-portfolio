@@ -35,6 +35,7 @@ Text here...
 
 **Vision Difficulty by Sex and Age** <br />
 https://data.census.gov/table/ACSDT1Y2023.B18103?q=B18103:%20Sex%20by%20Age%20by%20Vision%20Difficulty
+This dataset contains an estimate of the number of people in the U.S. with a visual disability as of 2023, by sex and age, based on the American Community Survey by the U.S. Census Bureau. A relevant visualization can be created to show the data of people with visual disability.
 
 **Prevelance of Eye Diseases in US** <br />
 https://data.world/datacrunch/prevalence-of-vision-problems-in-the-u-s/workspace/file?filename=Prevelance+of+Eye+Diseases+in+US.xlsx
