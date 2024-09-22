@@ -31,8 +31,6 @@ This section will urge the audience to prioritize regular eye exams, limit scree
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
-
 **Vision Difficulty by Sex and Age** <br />
 https://data.census.gov/table/ACSDT1Y2023.B18103?q=B18103:%20Sex%20by%20Age%20by%20Vision%20Difficulty <br />
 This dataset contains an estimate of the number of people in the U.S. with a visual disability as of 2023, by sex and age, based on the American Community Survey by the U.S. Census Bureau. A relevant visualization can be created to show the number of people with visual disability in different sex and age categories.
@@ -45,6 +43,4 @@ This dataset records a number of variables, including vision problem types, race
 This [medical-tests-survey results](medical-tests-survey-results) shows the percentage of adults in the United States aged 40 years and older who reported having a vision test in the past five years as of 2023. A bar chart can be created to show the importance of visiting eye doctors regularly, especially as age grows.
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+To complete this final project, I plan to use Tableau by importing the dataset and generating meaningful diagrams. The course has also introduced us to Datawrapper and RAWGraphs, both of which are useful websites for generating aesthetic and interactive visualizations, making them worth a try for this project.
