@@ -35,11 +35,11 @@ Data source: [U.S. Census Bureau's American Community Survey (ACS)](https://data
 This dataset contains an estimate of the number of people in the U.S. with a visual disability as of 2023, by sex and age, based on the American Community Survey by the U.S. Census Bureau. A relevant visualization can be created to show the number of people with visual disability in different sex and age categories.
 
 **Prevelance of Eye Diseases in US** <br />
-Data source: [ (https://data.world/datacrunch/prevalence-of-vision-problems-in-the-u-s/workspace/file?filename=Prevelance+of+Eye+Diseases+in+US.xlsx) <br />
+Data source: [Data Crunch Podcast](https://data.world/datacrunch/prevalence-of-vision-problems-in-the-u-s/workspace/file?filename=Prevelance+of+Eye+Diseases+in+US.xlsx) <br />
 This dataset records a number of variables, including vision problem types, race, sex, age, number of cases, prevalence rate, and population. I plan to draw a graph that demonstrates the leading causes of vision problems in the United States. Together with the first dataset, I can create various visualizations by demographics.
 
 **U.S. adults 40 years and older with select health tests in past 5 years 2023** <br />
-This [medical-tests-survey results](medical-tests-survey-results) shows the percentage of adults in the United States aged 40 years and older who reported having a vision test in the past five years as of 2023. A bar chart can be created to show the importance of visiting eye doctors regularly, especially as age grows.
+This [medical tests survey results by AARP.org](medical-tests-survey-results) shows the percentage of adults in the United States aged 40 years and older who reported having a vision test in the past five years as of 2023. A bar chart can be created to show the importance of visiting eye doctors regularly, especially as age grows.
 
 # Method and medium
 To complete this final project, I plan to use Tableau by importing the dataset and generating meaningful diagrams. The course has also introduced us to Datawrapper and RAWGraphs, both of which are useful websites for generating aesthetic and interactive visualizations, making them worth a try for this project.
