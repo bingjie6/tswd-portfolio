@@ -26,9 +26,8 @@ The focus will be on the importance of regular eye exams and practical tips for 
 This section will urge the audience to prioritize regular eye exams, limit screen time, and adopt healthy habits to protect their eyes. I may also utilize personal story to reinforce the message that early detection and lifestyle changes can prevent serious vision problems.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
+![Sketch](final-project-sketch-1.jpg)
+![Sketch Continue](final-project-sketch-2.jpg)
 
 # The data
 **Vision Difficulty by Sex and Age** <br />
