@@ -31,11 +31,11 @@ This section will urge the audience to prioritize regular eye exams, limit scree
 
 # The data
 **Vision Difficulty by Sex and Age** <br />
-https://data.census.gov/table/ACSDT1Y2023.B18103?q=B18103:%20Sex%20by%20Age%20by%20Vision%20Difficulty <br />
+Data source: [U.S. Census Bureau's American Community Survey (ACS)](https://data.census.gov/table/ACSDT1Y2023.B18103?q=B18103:%20Sex%20by%20Age%20by%20Vision%20Difficulty) <br />
 This dataset contains an estimate of the number of people in the U.S. with a visual disability as of 2023, by sex and age, based on the American Community Survey by the U.S. Census Bureau. A relevant visualization can be created to show the number of people with visual disability in different sex and age categories.
 
 **Prevelance of Eye Diseases in US** <br />
-https://data.world/datacrunch/prevalence-of-vision-problems-in-the-u-s/workspace/file?filename=Prevelance+of+Eye+Diseases+in+US.xlsx <br />
+Data source: [ (https://data.world/datacrunch/prevalence-of-vision-problems-in-the-u-s/workspace/file?filename=Prevelance+of+Eye+Diseases+in+US.xlsx) <br />
 This dataset records a number of variables, including vision problem types, race, sex, age, number of cases, prevalence rate, and population. I plan to draw a graph that demonstrates the leading causes of vision problems in the United States. Together with the first dataset, I can create various visualizations by demographics.
 
 **U.S. adults 40 years and older with select health tests in past 5 years 2023** <br />
