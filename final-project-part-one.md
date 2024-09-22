@@ -41,7 +41,7 @@ https://data.world/datacrunch/prevalence-of-vision-problems-in-the-u-s/workspace
 
 
 **U.S. adults 40 years and older with select health tests in past 5 years 2023** <br />
-https://data.census.gov/table/ACSDT1Y2023.B18103?q=B18103:%20Sex%20by%20Age%20by%20Vision%20Difficulty
+[medical-tests-survey-results]
 
 
 
