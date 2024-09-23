@@ -42,4 +42,4 @@ This dataset records a number of variables, including vision problem types, race
 This [medical tests survey results by AARP.org](medical-tests-survey-results) shows the percentage of adults in the United States aged 40 years and older who reported having a vision test in the past five years as of 2023. A bar chart can be created to show the importance of visiting eye doctors regularly, especially as age grows.
 
 # Method and medium
-To complete this final project, I plan to use Tableau by importing the dataset and generating meaningful diagrams. The course has also introduced us to Datawrapper and RAWGraphs, both of which are useful websites for generating aesthetic and interactive visualizations, making them worth a try for this project.
+To complete this final project, I plan to use Shorthand and Tableau by importing the dataset and generating meaningful diagrams. The course has also introduced us to Datawrapper and RAWGraphs, both of which are useful websites for generating aesthetic and interactive visualizations, making them worth a try for this project.
