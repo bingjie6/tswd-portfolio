@@ -48,7 +48,7 @@ I tried to reach out to my friends and faculty advisors as my sources of informa
 # Identified changes for Part III
 
 ## Common findings:
-- All three interviewees noted that while the visualizations effectively convey the importance of eye health, some graphs, such as the ‘Vision Difficulty by U.S. States,’ could benefit from additional details like specific numbers or percentages to clarify the extent of the issues.  
+- All three interviewees noted that while the visualizations effectively convey the importance of eye health, some graphs, such as the "Vision Difficulty by U.S. States", could benefit from additional details like specific numbers or percentages to clarify the extent of the issues.  
 - The visualizations were generally engaging and educational, highlighting the prevalence and risk of vision problems. The interviewees learned about demographics and risk factors, indicating the data presentation was effective in raising awareness.  
 - There was a consensus that the call to action is practical and relevant. However, interviewees suggested more specific actions, particularly around public health policy and professional responsibilities, could strengthen the urgency and applicability of the recommended measures.
 
