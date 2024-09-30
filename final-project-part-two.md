@@ -1,7 +1,13 @@
 | [home page](https://bingjie6.github.io/tswd-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-
+![Slide1](Slide1.png)
+![Slide2](Slide2.png)
+![Slide3](Slide3.png)
+![Slide4](Slide4.png)
+![Slide5](Slide5.png)
+![Slide6](Slide6.png)
+![Slide7](Slide7.png)
 
 # User research 
 
