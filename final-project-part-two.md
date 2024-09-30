@@ -12,9 +12,16 @@
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+My target audience can be categorized into the following three groups:
 
-Text here!
+### Individuals at high risk for vision loss
+This group of people can include 1) office workers with unmanaged screen time who don't take frequent breaks between long screen time 2) adults over 40 who are more prone to age-related eye conditions 3) those with chronic conditions like diabetes or hypertension, which can impact eye health. These three groups are not exclusive to each other, for example, one office worker with excessive screen time can be both over 40 and diagnosed with diabetes.
+
+### Healthcare professionals
+Healthcare professionals, such as optometrists, ophthalmologists, and general practitioners, are closely related to preventing and protecting health-related problems and providing suggestions to their patients. They might find value in the latest findings or recommendations for patient care.
+
+### Public health policymakers
+To make eye health aware at the societal level, policies or initiatives must be taken into action. I will need support from public health policymakers to convince them of the significance of eye problems. They can support initiatives that promote access to eye care and education on vision health and invest in public health campaigns that raise awareness about the importance of routine eye exams.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
