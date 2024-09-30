@@ -47,9 +47,15 @@ I tried to reach out to my friends and faculty advisors as my sources of informa
 
 # Identified changes for Part III
 
-Common findings:
-All three interviewees noted that while the visualizations effectively convey the importance of eye health, some graphs, such as the ‘Vision Difficulty by U.S. States,’ could benefit from additional details like specific numbers or percentages to clarify the extent of the issues.
+## Common findings:
+All three interviewees noted that while the visualizations effectively convey the importance of eye health, some graphs, such as the ‘Vision Difficulty by U.S. States,’ could benefit from additional details like specific numbers or percentages to clarify the extent of the issues.  
+The visualizations were generally engaging and educational, highlighting the prevalence and risk of vision problems. Interviewees appreciated learning about demographics and risk factors, indicating the data presentation was effective in raising awareness.  
+There was a consensus that the call to action is practical and relevant. However, interviewees suggested more specific actions, particularly around public health policy and professional responsibilities, could strengthen the urgency and applicability of the recommended measures.
 
+## Diverse observations:
+The Computer Science student suggested adding digital tools or apps to help manage screen time, which was unique compared to other feedback.  
+The Medical doctoral student emphasized the importance of healthcare professional roles in community education, which wasn’t as pronounced in feedback from others.  
+The Public Health graduate student focused on policy measures and their effectiveness, suggesting a deeper dive into what has worked or not at the state level.
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
