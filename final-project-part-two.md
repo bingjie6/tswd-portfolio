@@ -46,18 +46,14 @@ I tried to reach out to my friends and faculty advisors as my sources of informa
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+Common findings:
+All three interviewees noted that while the visualizations effectively convey the importance of eye health, some graphs, such as the ‘Vision Difficulty by U.S. States,’ could benefit from additional details like specific numbers or percentages to clarify the extent of the issues.
+
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
-
-> ...include any final thoughts you have here. 
-
-Text here!
+|enhance graphical detail|I plan to update the ‘Vision Difficulty by U.S. States’ map to include percentages and specific numbers. This will make the data more accessible and understandable, addressing clarity concerns.|
+|expand on Call to Action|I will refine the call to action to include more specific suggestions, such as digital reminders for screen breaks for the general public and potential partnerships for healthcare professionals to conduct educational sessions in communities. For policymakers, I’ll highlight successful state policies and suggest areas for new initiatives based on proven results.|
+|include success stories|To make the need for action more tangible, I will include case studies or success stories of effective interventions in eye health care. This will help illustrate the potential impact of adopting the suggested actions and motivate stakeholders to commit to changes.|
+|include additional data|               |
