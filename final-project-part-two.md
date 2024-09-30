@@ -24,7 +24,7 @@ Healthcare professionals, such as optometrists, ophthalmologists, and general pr
 To make eye health aware at the societal level, policies or initiatives must be taken into action. I will need support from public health policymakers to convince them of the significance of eye problems. They can support initiatives that promote access to eye care and education on vision health and invest in public health campaigns that raise awareness about the importance of routine eye exams.
 
 ## Interview script
-I tried to reach out to my friends and faculty advisors as my sources of information and eventually was able to find three individuals - one master's student in his 20s who spent most of his time in front of screens and didn't take effective actions to protect eye health, one student who is pursuing her doctoral degree in medicine, and one graduate student who has participated in the Public Health Seminar hosted by the U.S. Department of Foreign Affairs.
+I tried to reach out to my friends and faculty advisors as my sources of information and eventually was able to find three individuals - one Computer Science master's student in his 20s who spent most of his time in front of screens and didn't take effective actions to protect eye health, one student who is pursuing her doctoral degree in medicine, and one graduate student who has participated in the Public Health Seminar hosted by the U.S. Department of Foreign Affairs.
 
 | Goal | Questions to Ask |
 |------|------------------|
@@ -35,15 +35,15 @@ I tried to reach out to my friends and faculty advisors as my sources of informa
 |suggestions for improvement|“Is there anything in the graphs or overall presentation that could be improved to make the message stronger or more persuasive? What additional information or data would help reinforce the importance of this issue?”|
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               |CS Master's Student|Doctoral Degree Candidate|Public Health Seminar Participant|
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|"What message do you think these graphs are trying to convey? Are there any areas where the data or presentation could be clearer?"| Insightful feedback            |             |             |
+|“Do the graphs and the information presented resonate with your experiences or concerns? Do they motivate you to take action or consider changes? If not, what could make the message more compelling?”|                                |             |             |
+|“How do you feel about the suggested actions in the presentation? Do they feel practical and urgent to you? Is there anything that could be done more effectively to strengthen the call to action?”|                                |             |             |
+|“How do you feel about the suggested actions in the presentation? Do they feel practical and urgent to you? Is there anything that could be done more effectively to strengthen the call to action?”|                                |             |             |
+|“Did the presentation engage you and keep your attention? What’s the main issue or conflict you believe I’m addressing? Did you learn something new or gain a fresh perspective from it?”|                                |             |             |
+|“Is there anything in the graphs or overall presentation that could be improved to make the message stronger or more persuasive? What additional information or data would help reinforce the importance of this issue?”|                                |             |             |
 
 
 # Identified changes for Part III
