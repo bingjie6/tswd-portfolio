@@ -24,9 +24,7 @@ Healthcare professionals, such as optometrists, ophthalmologists, and general pr
 To make eye health aware at the societal level, policies or initiatives must be taken into action. I will need support from public health policymakers to convince them of the significance of eye problems. They can support initiatives that promote access to eye care and education on vision health and invest in public health campaigns that raise awareness about the importance of routine eye exams.
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
+I tried to reach out to my friends and faculty advisors as my sources of information and eventually was able to find three individuals - one master's student in his 20s who spent most of his time in front of screens and didn't take effective actions to protect eye health, one student who is pursuing her doctoral degree in medicine, and one graduate student who has participated in the Public Health Seminar hosted by the U.S. Department of Foreign Affairs.
 
 | Goal | Questions to Ask |
 |------|------------------|
