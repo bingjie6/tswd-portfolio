@@ -11,9 +11,18 @@ The Call to Action section has been refined to incorporate more specific and act
 According to the feedback received from my classmates, I've also highlighted the barriers that influence people's decision to visit eye doctors, such as unawareness of the need for regular eye exams, perceived high costs of care, lack of insurance coverage, and limited access to eye care providers in certain areas. This suggestion is very constructive as it completes policymakers' understanding of why some people do not seek eye care so as to develop more effective public health initiatives. Therefore, more individuals can benefit from the new policies on eye health.
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+The audience for my final data story include:
 
-Text here!
+1. Individuals at high risk for vision loss
+This group of people can include students and office workers with unmanaged screen time who don't take frequent breaks between long screen time. I also target adults over 35 who are more prone to age-related eye conditions, as shown by the data visualization I've created.
+
+2. Healthcare professionals
+Healthcare professionals are closely related to preventing and protecting health-related problems and providing suggestions to their patients. They might find value on the role healthcare professionals can play in community education to promote eye care awareness.
+
+3. Public health policymakers
+To make eye health aware at the societal level, policies or initiatives must be taken into action. Public health policymakers can support initiatives that promote access to eye care and education on vision health and invest in public health campaigns that raise awareness about the importance of eye health.
+
+By targeting these key groups, the final data story not only informs and educates but also drives action from those in a position to make a significant difference in public eye health, which I think is very comprehensive.
 
 ## Final design decisions
 > You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
