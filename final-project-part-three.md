@@ -10,8 +10,10 @@ The Call to Action section has been refined to incorporate more specific and act
 
 According to the feedback received from my classmates, I've also highlighted the barriers that influence people's decision to visit eye doctors, such as unawareness of the need for regular eye exams, perceived high costs of care, lack of insurance coverage, and limited access to eye care providers in certain areas. This suggestion is very constructive as it completes policymakers' understanding of why some people do not seek eye care so as to develop more effective public health initiatives. Therefore, more individuals can benefit from the new policies on eye health.
 
+To resolve the feedback from my professor and teaching assistant, I updated the Call to Action section to highlight some common signs of vision loss. Considering my target audience can be those potentially at a high risk of vision loss, I think including these common signs can lead them to seek professional advice at the onset of such symptoms rather than delaying until significant vision impairment occurs.
+
 ## The audience
-The audience for my final data story include:
+The audience for my final data story includes:
 
 1. Individuals at high risk for vision loss
 This group of people can include students and office workers with unmanaged screen time who don't take frequent breaks between long screen time. I also target adults over 35 who are more prone to age-related eye conditions, as shown by the data visualization I've created.
