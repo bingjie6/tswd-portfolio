@@ -34,11 +34,25 @@ In Part I, the groundwork is set by identifying the key objectives, establishing
 The structured progression from topic brainstorming and fundamental research in Part I, to well-designed storyboards and feedback collection in Part II, leads to the comprehensive and engaging outcome in Part III. Each phase builds upon the previous one with careful planning and execution, allowing for continuos improvement based on user insights and feedback.
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
 
-Text here!
+American Community Survey. (2023). Sex by Age by Vision Difficulty. *United States Census Bureau*. https://data.census.gov/table/ACSDT1Y2023.B18103?q=B18103:%20Sex%20by%20Age%20by%20Vision%20Difficulty
 
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
+AARP Research. (2023). The Intersection Between Hearing And Brain Health: Survey Of Adults Ages 40-Plus. DOI: https://doi.org/10.26419/res.00717.001
 
-Text here!
+Barrow, A., Ting, L., & Patel, V. (2018). Creating a holistic support service for people with vision impairment. *British Journal of General Practice*, 68 (672), 318-319. DOI: https://doi.org/10.3399/bjgp18X697613
+
+Boagey, H., Jolly, J. K., & Ferrey, A. A. (2022). Psychological Impact of Vision Loss. *Journal of Mental Health and Clinical Psychology*. DOI: 10.29245/2578-2959/2021/3.1256
+
+Data Crunch Podcast. (2017). Prevalence of Eye Diseases in US. https://data.world/datacrunch/prevalence-of-vision-problems-in-the-u-s/workspace/file?filename=Prevalence+of+Eye+Diseases+in+US.xlsx
+
+Deloitte. (2024). The impact of unmanaged excessive screen time in the United States. *American Optometric Association*. https://www.aoa.org/AOA/Documents/Eye%20Deserve%20More/Cost%20of%20Unmanaged%20Screen%20Time%20Report_FINAL.pdf
+
+Insight into Low Vision. (n.d.). How vision loss affects the social, emotional, and practical aspects of life. https://insightintolowvision.com/how-vision-loss-affects-the-social-emotional-and-practical-aspects-of-life/
+
+National Eye Institute. (2023). Glaucoma. https://www.nei.nih.gov/learn-about-eye-health/eye-conditions-and-diseases/glaucoma.
+
+Saydah, S. H., Gerzoff, R. B., Saaddine, J. B., Zhang, X., & Cotch, M. F. (2020). Eye Care Among US Adults at High Risk for Vision Loss in the United States in 2002 and 2017. *JAMA Ophthalmology*, 138(5), 479–489. https://doi.org/10.1001/jamaophthalmol.2020.0273
+
+Solomon, S. D., Shoge, R. Y., Ervin, A. M., Contreras, M., Harewood, J., Aguwa, U. T., & Olivier, M. G. (2022). Improving Access to Eye Care. *American Academy of Ophthalmology*, 129(10), 114-126. https://www.aaojournal.org/article/S0161-6420(22)00530-9/fulltext
+
+World Health Organization. Eye care, vision impairment and blindness. https://www.who.int/health-topics/blindness-and-vision-loss#tab=tab_1
