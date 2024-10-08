@@ -1,7 +1,7 @@
 | [home page](https://bingjie6.github.io/tswd-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+https://carnegiemellon.shorthandstories.com/cc8f98e0-2f2c-40d6-8872-7e6c1a1efbbf/index.html
 
 # Changes made since Part II
 I have made several changes in Part III according to the interview feedback. Firstly, in response to feedback received on the "Vision Difficulty by U.S. States" map, I now include not just state-by-state comparisons but also specific percentages to improve clarity and make the data more accessible and understandable. By presenting information more clearly, the map now becomes more effective in targeting the potential audience, such as policymakers and the general public, who rely on accurate data to make informed decisions and understand the scope of vision difficulties across different regions.
