@@ -3,12 +3,14 @@
 # Visualizing Government Debt
 
 ## Part one: Working with web-based visualization tools and data
+In this part, I explored data using a web-based visualization tool provided by the OECD website. The goal is to interact with a dataset, experiment with visualizations (e.g., a bar chart on government debt), and customize the chart by selecting specific countries or years. After experimenting, I downloaded the resulting chart as a .png file, embedded it onto this portfolio page, and ensured it displayed correctly.
+
 ![General Government Debt](general-government-debt.png)
 > Data Source <a href="https://www.oecd.org/en/data/indicators/general-government-debt.html">OECD</a>
 
-In this part, I explored data using a web-based visualization tool provided by the OECD website. The goal is to interact with a dataset, experiment with visualizations (e.g., a bar chart on government debt), and customize the chart by selecting specific countries or years. After experimenting, I downloaded the resulting chart as a .png file, embed it onto this portfolio page, and ensure it displays correctly.
-
 ## Part two: Working with Tableau
+Here, I take the same OECD dataset and use Tableau Desktop to create more advanced visualizations. I'm able to connect to the dataset, build a highlight table, and visualize the debt-to-GDP ratio over time. After sorting data, applying custom colors, and filtering unnecessary elements, I learned how to use Tableau to build meaningful visuals, which were then embedded into this portfolio page by generating an embed code.
+
 <div class='tableauPlaceholder' id='viz1725741054422' style='position: relative'>
     <noscript>
         <a href='#'>
@@ -43,9 +45,8 @@ In this part, I explored data using a web-based visualization tool provided by t
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
-Here, I take the same OECD dataset and use Tableau Desktop to create more advanced visualizations. I'm able to connect to the dataset, build a highlight table, and visualize the debt-to-GDP ratio over time. After sorting data, applying custom colors, and filtering unnecessary elements, I learned how to use Tableau to build meaningful visuals, which were then embedded into this portfolio page by generating an embed code.
-
 ## Part three: create your own visualization
+In this final part, I go beyond the examples provided and create an entirely new data visualization using the OECD data. The challenge is to apply what I’ve learned about color schemes, clarity, and chart selection to build a visualization that tells a new story. I explored different chart types and generated the boxplot above.
 
 <div class='tableauPlaceholder' id='viz1725751257642' style='position: relative'>
     <noscript>
@@ -83,8 +84,6 @@ Here, I take the same OECD dataset and use Tableau Desktop to create more advanc
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
-In this final part, I go beyond the examples provided and create an entirely new data visualization using the OECD data. The challenge is to apply what I’ve learned about color schemes, clarity, and chart selection to build a visualization that tells a new story. I explored different chart types and generated the boxplot above.
 
 The three visualizations above, including bar chart, heat map, and box plot, offer distinct perspectives on government debt as a percentage of GDP across countries based on the official data from OECD (https://www.oecd.org/en/data/indicators/general-government-debt.html). The bar chart shows the government debt across countries in 2022 specifically. The heat map offers a year-by-year snapshot of debt levels across countries from 1995 to 2022, using color gradients to highlight magnitude and compare trends across time. The blue and orange form a stark contrast, telling which countries experienced high and low government debt ratios. The third box plot, sorted ascendingly by the medium, emphasizes the distribution and variability of debt for each country from 1995 to 2022, revealing fluctuations and outliers. It’s ideal for understanding how much debt levels vary within countries, highlighting both medians and extremes. 
 
