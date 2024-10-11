@@ -1,7 +1,7 @@
 | [home page](https://bingjie6.github.io/tswd-portfolio/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go. 
 
 # About me
 Hi, I'm Grace (Bingjie) Liu! I am currently pursuing a Master of Information Systems Management degree at Carnegie Mellon University with an expected graduation date of December 2024. Previously I earned my bachelor's degrees in Informatics and Education Sciences from UC Irvine in 2023.
