@@ -22,7 +22,7 @@ Click on the assignment title to get to my Visualizing Government Debt page.
 Click on the assignment title to get to my Critique by Design page.
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+My final project addresses the topic of vision problems and calls for audiences' action to take early intervention to prevent eye problems.
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 [Part III](final-project-part-three)
