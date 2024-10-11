@@ -21,8 +21,5 @@ Click on the assignment title to get to my Visualizing Government Debt page.
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 Click on the assignment title to get to my Critique by Design page.
 
-## Final project
+## Final project [Part I](final-project-part-one) | [Part II](final-project-part-two) | [Part III](final-project-part-three)
 My final project addresses the topic of vision problems and calls for audiences' action to take early intervention to prevent eye problems. Click on the link to know more.
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-[Part III](final-project-part-three)
