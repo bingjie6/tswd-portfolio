@@ -3,7 +3,7 @@
 # Visualizing Government Debt
 
 ## Part one: Working with web-based visualization tools and data
-In this part, I explored data using a web-based visualization tool provided by the OECD website. The goal is to interact with a dataset, experiment with visualizations (e.g., a bar chart on government debt), and customize the chart by selecting specific countries or years. After experimenting, I downloaded the resulting chart as a .png file, embedded it onto this portfolio page, and ensured it displayed correctly.
+In this part, I explored data using a web-based visualization tool provided by the OECD website. The goal is to interact with a dataset, experiment with visualizations, and customize the chart by selecting specific countries or years. After experimenting, I downloaded the resulting chart as a .png file, embedded it onto this portfolio page, and ensured it displayed correctly.
 
 ![General Government Debt](general-government-debt.png)
 > Data Source <a href="https://www.oecd.org/en/data/indicators/general-government-debt.html">OECD</a>
